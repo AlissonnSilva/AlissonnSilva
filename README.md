@@ -30,6 +30,6 @@ Estatísticas
 Contato
 Estou aberto a conversar sobre oportunidades de estágio, projetos júnior e colaboração em aplicações web.
 
-LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN_AQUI
+LinkedIn: https://www.linkedin.com/in/alisson-silva-508213340/
 E-mail: alissoneraldo02102@gmail.com
 GitHub: https://github.com/AlissonnSilva
