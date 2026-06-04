@@ -16,15 +16,21 @@ Banco        Prisma, SQLite, migrations e modelagem inicial
 Base         Java, POO, SOLID, estrutura de dados e boas práticas
 Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,nodejs,prisma,php,laravel,java,python,cpp,html,css,tailwind,git,github&theme=dark" alt="Tecnologias: TypeScript, JavaScript, Next.js, React, NestJS, Node.js, Prisma, PHP, Laravel, Java, Python, C++, HTML, CSS, Tailwind, Git e GitHub" /> </div>
-Projetos em destaque
-<table> <tr> <td width="50%"> <h3>DesafioChat</h3> <p>Chat em tempo real com mensagens persistidas, status de conexão e comunicação via WebSocket.</p> <p><strong>Stack:</strong> Next.js, NestJS, Socket.IO, Prisma, SQLite</p> <a href="https://github.com/AlissonnSilva/DesafioChat">Ver repositório</a> </td> <td width="50%"> <h3>SistemaDeGestaoPOO</h3> <p>Sistema de gestão em Java com clientes, produtos, pedidos e processamento em segundo plano.</p> <p><strong>Stack:</strong> Java, POO, SOLID, Threads</p> <a href="https://github.com/AlissonnSilva/SistemaDeGestaoPOO">Ver repositório</a> </td> </tr> <tr> <td width="50%"> <h3>FullStack</h3> <p>Gerenciador de estoque com cadastro, edição, remoção e persistência local no navegador.</p> <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS</p> <a href="https://github.com/AlissonnSilva/FullStack">Ver repositório</a> </td> <td width="50%"> <h3>4pBackend</h3> <p>Gerenciador de tarefas com estrutura MVC, validações, migrations e operações CRUD.</p> <p><strong>Stack:</strong> Laravel, PHP, Blade</p> <a href="https://github.com/AlissonnSilva/4pBackend">Ver repositório</a> </td> </tr> </table>
+O que estou desenvolvendo
+Estou organizando meus repositórios para deixar a vitrine mais objetiva, com projetos completos, documentação clara e uma apresentação melhor para quem avalia código.
+
+No momento, meu foco está em evoluir nos fundamentos que recrutadores costumam observar em candidatos de estágio e júnior:
+
+Estruturação de aplicações web com frontend, backend e banco de dados.
+Criação de APIs, rotas, validações e regras de negócio simples.
+Escrita de código mais legível, separado por responsabilidades e fácil de manter.
+Documentação de projetos com objetivo, stack, instalação, uso e aprendizados.
+Melhoria contínua em Git, GitHub, organização de commits e leitura de código.
 Minha forma de evoluir
 Transformo atividades da faculdade em projetos mais completos e bem documentados.
 Priorizo fundamentos: lógica, POO, organização de pastas, banco de dados e leitura de código.
-Estou melhorando meus READMEs para mostrar objetivo, stack, funcionalidades, como rodar e aprendizados.
+Estou melhorando meus READMEs para mostrar objetivo, stack, como rodar e aprendizados.
 Busco feedback e evolução constante, principalmente em arquitetura, testes e boas práticas de backend.
-GitHub em números
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlissonnSilva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Alisson" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonnSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Alisson" /> </div>
 Vamos conversar
 <div align="center">
 Aberto a oportunidades de estágio, vaga júnior e colaboração em projetos web.
