@@ -1,38 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A66C2,100:00B894&section=header" alt="Header" /> <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:0A66C2,100:00B894&section=header" alt="Banner" /> <div align="center"> <img src="https://avatars.githubusercontent.com/u/168883728?v=4" width="135" alt="Foto de perfil de Alisson Eraldo da Silva" />
 Alisson Eraldo da Silva
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack+em+formacao;TypeScript+%7C+Next.js+%7C+NestJS+%7C+Laravel+%7C+Java;Construindo+projetos+com+proposito+e+boa+documentacao" alt="Typing SVG" /> </a>
-<a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/E--mail-Contato-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/AlissonnSilva"> <img src="https://img.shields.io/badge/GitHub-AlissonnSilva-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=780&lines=Engenharia+de+Software;Desenvolvimento+Full+Stack;SaaS+%7C+IA+%7C+Automacao+Empresarial;TypeScript+%7C+Next.js+%7C+React+%7C+NestJS+%7C+Node.js" alt="Texto animado com áreas de atuação" /> </a> <p> <strong>Desenvolvedor Full Stack em formação</strong><br /> Construindo soluções web modernas com foco em produto, automação e problemas reais. </p> <p> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/E--mail-Contato-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/AlissonnSilva"> <img src="https://img.shields.io/badge/GitHub-AlissonnSilva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> <p> <img src="https://img.shields.io/badge/Disponivel%20para-Estagio%20e%20Junior-00B894?style=flat-square" alt="Disponível para estágio e júnior" /> <img src="https://img.shields.io/badge/Foco-SaaS%20%26%20Automacao-0A66C2?style=flat-square" alt="Foco em SaaS e automação" /> <img src="https://img.shields.io/badge/Interesse-IA%20Aplicada-7C3AED?style=flat-square" alt="Interesse em IA aplicada" /> </p> </div>
 Sobre mim
-Sou estudante do 4º período de Engenharia de Software, no Paraná, e estou me preparando para atuar como desenvolvedor Full Stack.
+Sou estudante de Engenharia de Software e desenvolvedor Full Stack em formação, com foco em construir aplicações web modernas, bem estruturadas e orientadas a resolver problemas reais.
 
-Gosto de construir projetos que conectam interface, regras de negócio e persistência de dados. Hoje venho praticando com TypeScript, Next.js, NestJS, Prisma, Laravel/PHP e Java, com foco em escrever código mais organizado, documentado e fácil de evoluir.
+Tenho direcionado meus estudos para o desenvolvimento de produtos digitais com TypeScript, Next.js, React, NestJS, Node.js, Supabase e PostgreSQL, explorando principalmente soluções para SaaS, automação empresarial e inteligência artificial aplicada.
 
-Estou em busca de oportunidades de estágio ou desenvolvedor júnior, onde eu possa aprender com um time real, contribuir com consistência e transformar estudo em produto funcionando.
+Meu objetivo é conquistar uma oportunidade de estágio ou desenvolvedor júnior, contribuindo com dedicação, pensamento analítico, aprendizado rápido e evolução contínua dentro de um time de tecnologia.
 
-Foco atual
-Front-end    Next.js, React, TypeScript, Tailwind CSS
-Back-end     NestJS, Laravel, APIs REST, WebSocket
-Banco        Prisma, SQLite, migrations e modelagem inicial
-Base         Java, POO, SOLID, estrutura de dados e boas práticas
-Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,nodejs,prisma,php,laravel,java,python,cpp,html,css,tailwind,git,github&theme=dark" alt="Tecnologias: TypeScript, JavaScript, Next.js, React, NestJS, Node.js, Prisma, PHP, Laravel, Java, Python, C++, HTML, CSS, Tailwind, Git e GitHub" /> </div>
-O que estou desenvolvendo
-Estou organizando meus repositórios para deixar a vitrine mais objetiva, com projetos completos, documentação clara e uma apresentação melhor para quem avalia código.
-
-No momento, meu foco está em evoluir nos fundamentos que recrutadores costumam observar em candidatos de estágio e júnior:
-
-Estruturação de aplicações web com frontend, backend e banco de dados.
-Criação de APIs, rotas, validações e regras de negócio simples.
-Escrita de código mais legível, separado por responsabilidades e fácil de manter.
-Documentação de projetos com objetivo, stack, instalação, uso e aprendizados.
-Melhoria contínua em Git, GitHub, organização de commits e leitura de código.
-Minha forma de evoluir
-Transformo atividades da faculdade em projetos mais completos e bem documentados.
-Priorizo fundamentos: lógica, POO, organização de pastas, banco de dados e leitura de código.
-Estou melhorando meus READMEs para mostrar objetivo, stack, como rodar e aprendizados.
-Busco feedback e evolução constante, principalmente em arquitetura, testes e boas práticas de backend.
-Vamos conversar
+Perfil para recrutadores
+<table> <tr> <td><strong>Área</strong></td> <td>Engenharia de Software e Desenvolvimento Full Stack</td> </tr> <tr> <td><strong>Stack principal</strong></td> <td>TypeScript, Next.js, React, NestJS, Node.js, Supabase, PostgreSQL</td> </tr> <tr> <td><strong>Interesses</strong></td> <td>SaaS, Inteligência Artificial, Automação Empresarial e Produtos Web</td> </tr> <tr> <td><strong>Objetivo</strong></td> <td>Estágio, oportunidade júnior e projetos profissionais em desenvolvimento web</td> </tr> </table>
+Stack tecnológica
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,supabase,postgres,prisma,tailwind,js,html,css,git,github,vercel,vscode&theme=dark" alt="TypeScript, Next.js, React, NestJS, Node.js, Supabase, PostgreSQL, Prisma, Tailwind, JavaScript, HTML, CSS, Git, GitHub, Vercel e VS Code" /> </div>
+Ferramentas e práticas
+<p> <img src="https://img.shields.io/badge/Versionamento-Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/API-REST-0A66C2?style=flat-square" alt="API REST" /> <img src="https://img.shields.io/badge/UI-Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Code-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> </p>
+Soft skills
+Comunicação clara e postura colaborativa.
+Aprendizado rápido e curiosidade técnica.
+Organização para estudar, documentar e evoluir projetos.
+Pensamento analítico para entender problemas antes de implementar soluções.
+Responsabilidade com prazos, qualidade e melhoria contínua.
+Projetos em destaque
+<table> <tr> <td width="50%"> <h3>SaaS para Manicures</h3> <p>Plataforma SaaS para gestão de atendimentos, agenda, clientes e serviços no segmento de beleza.</p> <p><strong>Proposta:</strong> centralizar processos, reduzir tarefas manuais e melhorar a experiência de profissionais autônomas.</p> <p><strong>Stack planejada:</strong> Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS</p> <p><strong>Status:</strong> em organização para portfólio</p> </td> <td width="50%"> <h3>Sistema de Gestão de Pneus</h3> <p>Sistema para controle operacional de pneus, estoque, movimentações, registros e gestão administrativa.</p> <p><strong>Proposta:</strong> transformar um processo de negócio em uma aplicação estruturada e escalável.</p> <p><strong>Stack planejada:</strong> Node.js, NestJS, PostgreSQL, React, TypeScript</p> <p><strong>Status:</strong> em organização para portfólio</p> </td> </tr> <tr> <td width="50%"> <h3>Automação Empresarial com IA</h3> <p>Estrutura de projeto para automações internas usando IA aplicada, integrações e fluxos de produtividade.</p> <p><strong>Foco:</strong> produtividade, atendimento, análise de dados e redução de tarefas repetitivas.</p> <p><strong>Status:</strong> próximo projeto recomendado</p> </td> <td width="50%"> <h3>Dashboard SaaS</h3> <p>Template profissional para dashboards com autenticação, métricas, CRUDs e visão administrativa.</p> <p><strong>Foco:</strong> demonstrar domínio de produto, UI, backend e banco de dados.</p> <p><strong>Status:</strong> estrutura pronta para criação</p> </td> </tr> </table>
+Objetivos profissionais
+Atuar em times de tecnologia como estagiário ou desenvolvedor júnior.
+Desenvolver aplicações full stack com qualidade, documentação e visão de produto.
+Evoluir em arquitetura backend, banco de dados, autenticação, testes e deploy.
+Criar projetos SaaS com potencial real de uso por empresas e profissionais.
+Aplicar IA e automação para resolver problemas práticos de negócio.
+GitHub analytics
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlissonnSilva&theme=tokyonight" alt="Resumo de atividade do GitHub" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlissonnSilva&theme=tokyonight" alt="Estatísticas gerais do GitHub" /> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlissonnSilva&theme=tokyonight" alt="Linguagens mais utilizadas nos repositórios" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlissonnSilva&theme=tokyonight" alt="Linguagens mais utilizadas nos commits" /> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlissonnSilva&theme=tokyonight&utcOffset=-3" alt="Horário mais produtivo no GitHub" />
+<img src="https://streak-stats.demolab.com?user=AlissonnSilva&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlissonnSilva&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade no GitHub" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AlissonnSilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Troféus do GitHub" /> </div>
+Contato
 <div align="center">
-Aberto a oportunidades de estágio, vaga júnior e colaboração em projetos web.
+Estou disponível para conversar sobre oportunidades de estágio, desenvolvimento júnior, SaaS, automação empresarial e projetos full stack.
 
-<br /> <br /> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/Enviar%20e--mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00B894,100:0A66C2&section=footer" alt="Footer" />
+<br /> <br /> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/Enviar%20e--mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00B894,50:0A66C2,100:0F172A&section=footer" alt="Rodapé" />
